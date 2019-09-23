@@ -13,6 +13,12 @@ produce a short presentation that illustrates interesting properties, trends, an
 selected dataset. The primary method of conveying our findings will be through transforming our exploratory visualizations
 from the first part into polished, explanatory visualizations.
 
+# Analysis
+Throught our analysis, these are our finding:
++ the borrower APR has a negetive correlation with the prosper score. A better prosper score gives borrower a lower APR.
++ the borrower APR has also a negative correlation with the prosper rating alpha. A bad prosper rating alpha results to a high APR.
++ according to any employment status, the borrower APR decreases for a better prosper score and  rating alpha.
+
 # Tools
 This project uses Python 3 and is designed to be completed through the Jupyter Notebooks IDE. It is highly recommended that
 we use the Anaconda distribution to install Python, since the distribution includes all necessary Python libraries as well
